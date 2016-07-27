@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="startcountry">
+        <item >德国</item>
+        <item >法国</item>
+        <item >英国</item>
+        <item >西班牙</item>
+        <item >中国</item>
+        <item >以色列</item>
+    </string-array>
+    <string-array name="startcity">
+        <item >柏林</item>
+        <item >汉堡</item>
+    </string-array>
+</resources>

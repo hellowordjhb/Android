@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">旅欧网</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttom_home">主页</string>
+    <string name="buttom_my">个人</string>
+    <string name="buttom_indent">订单</string>
+    <string name="buttom_setting">设置</string>
+
+    <string name="hello">Hello World, GeocoderTest!</string>
+	<string name="txtLong">经度:</string>
+	<string name="txtLat">纬度:</string>
+	<string	name="lng">0</string>
+	<string	name="lat">0</string>
+	<string	name="txtAddress">地址:</string>
+	<string	name="address">南京玄武湖公园</string>	
+	<string name="parse">搜索景点</string>
+	<string name="reverse">导航</string>
+	
+	<string name="starting">出发地:</string>
+	<string name="destination">目的地:</string>
+</resources>
